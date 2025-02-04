@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:netherite_scrap",
+    "minecraft:diamond_block",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:end_crystal",
+    "minecraft:nether_star"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hyper_chestplate",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "hyper_ore:hyper"
+    }
+  },
+  "result": {
+    "item": "hyper_ore:hyper_armor_chestplate",
+    "count": 1
+  }
+}

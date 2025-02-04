@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hyper_boots",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "hyper_ore:hyper"
+    }
+  },
+  "result": {
+    "item": "hyper_ore:hyper_armor_boots",
+    "count": 1
+  }
+}

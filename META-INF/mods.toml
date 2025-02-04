@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="hyper_ore"
+version="0.8"
+displayName="Hyper Ore"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Authorized Distrobution: TimeWorkStudio/TWS"
+authors="TimeWorkStudio, Distro ED864F From Modrinth"
+description="Adds Better-Than-Netherite ores into the game!"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.hyper_ore]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

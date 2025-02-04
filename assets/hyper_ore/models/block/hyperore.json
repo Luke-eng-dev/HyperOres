@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hyper_ore:block/hyperoreblock",
+    "up": "hyper_ore:block/hyperoreblock",
+    "north": "hyper_ore:block/hyperoreblock",
+    "east": "hyper_ore:block/hyperoreblock",
+    "south": "hyper_ore:block/hyperoreblock",
+    "west": "hyper_ore:block/hyperoreblock",
+    "particle": "hyper_ore:block/hyperoreblock"
+  },
+  "render_type": "solid"
+}
