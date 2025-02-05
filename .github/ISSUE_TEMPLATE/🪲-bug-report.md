@@ -3,7 +3,7 @@ name: "\U0001FAB2 Bug Report"
 about: Create a report to help us improve
 title: "[\U0001FAB2 BUG]"
 labels: "\U0001FAB2 Bug"
-assignees: ''
+assignees: Luke-eng-dev
 
 ---
 

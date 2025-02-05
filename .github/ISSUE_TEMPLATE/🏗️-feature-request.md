@@ -3,7 +3,7 @@ name: "\U0001F3D7️ Feature request"
 about: Suggest an idea for this project
 title: "[\U0001F3D7️ FEATURE]"
 labels: "\U0001F4AB Feature"
-assignees: ''
+assignees: Luke-eng-dev
 
 ---
 
